@@ -1,3 +1,5 @@
+// MY REPOSITORIES ARE QUITE OUTDATED BY NOW -> WORKING ON IT! :)
+
 - 👋 Hi, I’m @Kielbiowski
 - 👀 I’m interested in all kinds of stuff, mainly related to Java software engineering, 
 - 🌱 I’m currently learning Spring Boot,
